@@ -7,7 +7,7 @@ Olá! Tenho 19 anos e estou a tirar o curso de Engenharia Informática desde 202
 ---
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_afonsofernandes/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afernandes28/)
 
-![Afonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gongas28&show_icons=true&theme=highcontrast)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gongas28&layout=compact)
+![Afonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gongas28&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gongas28&size_weight=0.5&count_weight=0.5)
 
 ## Linguagens
 
