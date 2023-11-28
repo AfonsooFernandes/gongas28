@@ -1,7 +1,10 @@
 
-### Sobre Mim
-### Olá!👋 Sou o Afonso Fernandes
+### Afonso Fernandes👋
+--- 
+Olá! Tenho 19 anos e estou a tirar o curso de Engenharia Informática desde 2022. As principais linguagens que utilizo são C e Java. Espero que gostem dos meus projetos.
 
+
+---
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_afonsofernandes/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afernandes28/)
 
 ![Afonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gongas28&show_icons=true&theme=highcontrast)
